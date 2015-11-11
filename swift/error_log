@@ -1,0 +1,2 @@
+[20-May-2015 22:09:23 America/Chicago] PHP Fatal error:  Class 'Swift_DependencyContainer' not found in /home1/seyacat/public_html/liberate/libs/swift/dependency_maps/cache_deps.php on line 3
+[20-May-2015 22:09:25 America/Chicago] PHP Fatal error:  Class 'Swift_Preferences' not found in /home1/seyacat/public_html/liberate/libs/swift/preferences.php on line 9
